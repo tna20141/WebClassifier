@@ -1,0 +1,18 @@
+<configuration>
+	<categories>
+		<course />
+		<faculty />
+		<project />
+		<student />
+	</categories>
+	<train-data>
+		<cornell />
+		<texas />
+		<washington />
+		<wisconsin />
+	</train-data>
+	<test-data>
+		<misc />
+	</test-data>
+</configuration>
+	
